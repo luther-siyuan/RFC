@@ -1,0 +1,24 @@
+
+Memory used by chunks : 786792 bytes
+
+Memory used by phase0_Nodes[0~5] is : 786432 bytes
+
+The CES amount of phase0_Nodes[0] is : 8
+The CES amount of phase0_Nodes[1] is : 4
+The CES amount of phase0_Nodes[2] is : 10
+The CES amount of phase0_Nodes[3] is : 5
+The CES amount of phase0_Nodes[4] is : 1
+The CES amount of phase0_Nodes[5] is : 1
+
+Memory used by phase1_Nodes[0] is : 80 bytes
+The CES amount of phase1_Nodes[0] is : 10
+Memory used by phase1_Nodes[1] is : 80 bytes
+The CES amount of phase1_Nodes[1] is : 10
+
+Memory used by phase2_Node is : 200 bytes
+
+phase0阶段耗时: 109552 微秒
+
+整个预处理过程耗时: 204160 微秒
+
+数据包匹配规则过程耗时: 989 微秒

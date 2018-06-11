@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/f/rfc/RFC.CPP
+stdio.h
+-
+stdlib.h
+-
+memory.h
+-
+sys/time.h
+-
+RFC.h
+/cygdrive/f/rfc/RFC.h
+
+/cygdrive/f/rfc/RFC.h
+
